@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-hePW80VL.js";import{n as t}from"./LazyPage1aaaaaaaaaa-xvmy8R-2.js";var n=e({LazyPage2:()=>i,default:()=>i}),r=t(),i=()=>(0,r.jsx)(`h1`,{children:`Lazy Page 2`});export{n as t};
